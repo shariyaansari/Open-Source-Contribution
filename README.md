@@ -26,9 +26,7 @@ You can view the presentation.md file directly on GitHub. However, it will be re
 
 Ready to make your first contribution? The hands-on exercise for this workshop is located in a separate, dedicated repository.
 
-**➡ [Click Here to Go to the Contribution Repository](https://github.com/ieee-dbit-cs/ieee-dbit-cs-first-contribution)**
-
-(Remember to replace the link above with the correct URL if it's different!)
+**➡ [Click Here to Go to the Contribution Repository](https://github.com/shariyaansari/ieee-dbit-cs-first-contribution)**
 
 ---
 
